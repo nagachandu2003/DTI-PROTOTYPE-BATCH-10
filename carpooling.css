@@ -385,3 +385,9 @@ h4 {
     color: white;
     border-radius: 400px;
 }
+.logo1{
+    max-width: 100px;
+    border-radius:400px;
+    margin-left:50px ;
+    margin-bottom: 20px;
+}
