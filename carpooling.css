@@ -47,12 +47,12 @@ h1{
     color: rgb(29, 7, 7);
     font-size: 2rem;
 }
+
 .navbar{
     justify-content: space-between;
 }
-.logo img{
-    width: 200px;
-    margin:20px;
+.logo{
+    width: 50px;
 }
 .nav-links{
     flex-basis: 1100px;
